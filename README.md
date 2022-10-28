@@ -1,4 +1,6 @@
 # Kelas R: Belajar Pemograman R sampai Mahir
-Repository untuk mengimpan code di tutorial Kelas R. Repository ini diupdate berkala sesuai perkembangan video di playlist Kelas R.
+Selamat datang di repository "Belajar R sampai Mahir". Repository ini diupdate berkala sesuai perkembangan video di playlist Kelas R.
+
+
 
 
